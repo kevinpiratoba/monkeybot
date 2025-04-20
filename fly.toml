@@ -1,0 +1,7 @@
+app = "monkeybot"
+
+[build]
+  builder = "Dockerfile"
+
+[env]
+  PYTHONUNBUFFERED = "1"
